@@ -1,0 +1,23 @@
+{
+  "name": "npm",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Begining",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GhostJoker111/hexlet-js.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GhostJoker111/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/GhostJoker111/hexlet-js#readme"
+}
